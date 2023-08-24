@@ -40,7 +40,7 @@ npx cypress open
 
 Try doing a dry run on Postman with Different APIs
 
-https://deloittedevelopment.udemy.com/course/rest-api-automation-testing-rest-assured/learn/lecture/33224906#overview -> Section 3 of this course covers the basics.
+https://udemy.com/course/rest-api-automation-testing-rest-assured/learn/lecture/33224906#overview -> Section 3 of this course covers the basics.
 
  
 
